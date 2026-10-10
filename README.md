@@ -4,12 +4,6 @@
 
 本仓库收录《高性价比人生指南》全文 34 章，后续将基于本书内容制作对应的 skill。
 
-## 来源与许可
-
-- 原仓库：[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-- 本仓库为全文复制本，保留原许可：[CC BY 4.0](LICENSE)（署名 4.0 国际版）。复制、分享或改编时请保留原作者署名与本许可说明。
-- 章节正文位于 `book/` 目录，文件名与原仓库保持一致，便于对照与后续制作 skill。
-
 ## 这本书想回答的问题
 
 | 问题 | 去哪看 |
@@ -89,3 +83,8 @@
 ## 后续计划
 
 - 基于本书 34 章内容制作对应的 skill（待启动）。
+- ## 来源与许可
+
+- 原仓库：[eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+- 本仓库为全文复制本，保留原许可：[CC BY 4.0](LICENSE)（署名 4.0 国际版）。复制、分享或改编时请保留原作者署名与本许可说明。
+- 章节正文位于 `book/` 目录，文件名与原仓库保持一致，便于对照与后续制作 skill。
